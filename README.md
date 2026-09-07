@@ -29,7 +29,7 @@ A Java-based console application for storing and managing student names and mark
 6. The application calculates and displays the average, highest, and lowest marks.
 
 ## Sample Output
-
+```text
 ==============================
        STUDENT GRADE REPORT
 ==============================
@@ -43,8 +43,4 @@ Average marks: 85.00
 Maximum marks: 92.00
 Minimum marks: 78.00
 ==============================
-
-
-
-**One important correction:** if you're putting this directly into `README.md`, make sure the `Sample Output` code block has its closing triple backticks before `## Author`.
 ```
